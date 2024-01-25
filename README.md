@@ -3,64 +3,58 @@ A collection of simple programs I did to learn Java,primarily focusing on the KT
 
 ## PROGRAMS
 
-1. <a href=https://github.com/joel-tm/Object-oriented-programming-using-java/tree/main/Programs/program1>Print Hello World</a>
+1. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/tree/main/Programs/program1" target="_blank">Print Hello World</a>
 
-2. Check Whether The Given number is odd Or Even using the command line 
+2. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/tree/main/Programs/program2" target="_blank">Check Whether The Given number is odd Or Even using the command line</a>
 
-3. Sum of two numbers
+3. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/tree/main/Programs/program3">Sum of two numbers</a>
 
-4. Prime number
+4. <a href="#https://github.com/joel-tm/Object-oriented-programming-using-java/tree/main/Programs/program4">Prime number</a>
 
-5. Sum of n natural number
+5. <a href="#">Sum of n natural number</a>
 
-6. Arithmetic Operation using Switch
+6. <a href="#">Arithmetic Operation using Switch</a>
 
-7. Grade Using Switch Case
+7. <a href="#">Grade Using Switch Case</a>
 
-8. Armstrong Number
+8. <a href="#">Armstrong Number</a>
 
-9. One-Dimensional Array
+9. <a href="#">One-Dimensional Array</a>
 
-10. Matrix Addition and Multiplication
+10. <a href="#">Matrix Addition and Multiplication</a>
 
-11. String handling Functions
+11. <a href="#">String handling Functions</a>
 
-12. Reversing A string and String Palindrome
+12. <a href="#">Reversing A string and String Palindrome</a>
 
-13. Frequency of a character in String
+13. <a href="#">Frequency of a character in String</a>
 
-14. Employee salary
+14. <a href="#">Employee salary</a>
 
-15. Area of a rectangle
+15. <a href="#">Area of a rectangle</a>
 
-16. Method Overloading
+16. <a href="#">Method Overloading</a>
 
-17. constructor Overloading
+17. <a href="#">Constructor Overloading</a>
 
-18. Factorial using recursion
+18. <a href="#">Factorial using recursion</a>
 
-19. Stack operations
+19. <a href="#">Stack operations</a>
 
-20. Queue operations
+20. <a href="#">Queue operations</a>
 
-21. Complex Number Operations
+21. <a href="#">Complex Number Operations</a>
 
-22. Polynomial Addition
+22. <a href="#">Polynomial Addition</a>
 
-23. Display Sides of a Geometrical Structure
+23. <a href="#">Display Sides of a Geometrical Structure</a>
 
-24. Area of A Square
+24. <a href="#">Area of A Square</a>
 
-25. Packages
+25. <a href="#">Packages</a>
 
-26. Try and Catch 
+26. <a href="#">Try and Catch</a>
 
-27. Thread Synchronization
+27. <a href="#">Thread Synchronization</a>
 
-28. Calculator
-
-29. Traffic Light 
-
-30. Doubly linked list
-
-31. Quick Sort
+28. <a href="#">Calculator</a>

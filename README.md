@@ -9,52 +9,46 @@ A collection of simple programs I did to learn Java,primarily focusing on the KT
 
 3. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/tree/main/Programs/program3">Sum of two numbers</a>
 
-4. <a href="#https://github.com/joel-tm/Object-oriented-programming-using-java/tree/main/Programs/program4">Prime number</a>
+4. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/tree/main/Programs/program4">Prime number</a>
 
-5. <a href="#">Sum of n natural number</a>
+5. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/tree/main/Programs/program5">Sum of n natural number</a>
 
-6. <a href="#">Arithmetic Operation using Switch</a>
+6. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/tree/main/Programs/program6">Arithmetic Operation using Switch</a>
 
-7. <a href="#">Grade Using Switch Case</a>
+7. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/tree/main/Programs/program7">Grade Using Switch Case</a>
 
-8. <a href="#">Armstrong Number</a>
+8. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/tree/main/Programs/program8">Armstrong Number</a>
 
-9. <a href="#">One-Dimensional Array</a>
+9. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/Array.java">One-Dimensional Array</a>
 
-10. <a href="#">Matrix Addition and Multiplication</a>
+10. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/TwoArray.java">Matrix Addition and Multiplication</a>
 
-11. <a href="#">String handling Functions</a>
+11. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/FuncString.java">String handling Functions</a>
 
-12. <a href="#">Reversing A string and String Palindrome</a>
+12. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/RevS.java">Reversing A string and String Palindrome</a>
 
-13. <a href="#">Frequency of a character in String</a>
+13. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/Occu.java">Frequency of a character in String</a>
 
-14. <a href="#">Employee salary</a>
+14. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/Employee.java">Employee salary</a>
 
-15. <a href="#">Area of a rectangle</a>
+15. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/Area.java">Area of a rectangle</a>
 
-16. <a href="#">Method Overloading</a>
+16. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/MethOver.java">Method Overloading</a>
 
-17. <a href="#">Constructor Overloading</a>
+17. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/Rectangle.java">Constructor Overloading</a>
 
-18. <a href="#">Factorial using recursion</a>
+18. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/Rfact.java">Factorial using recursion</a>
 
-19. <a href="#">Stack operations</a>
+19. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/Jstack.java">Stack operations</a>
 
-20. <a href="#">Queue operations</a>
+20. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/Jqueue.java">Queue operations</a>
 
-21. <a href="#">Complex Number Operations</a>
+21. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/Complex.java">Complex Number Operations</a>
 
-22. <a href="#">Polynomial Addition</a>
+22. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/polynomial.java">Polynomial Addition</a>
 
-23. <a href="#">Display Sides of a Geometrical Structure</a>
+23. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/Shape1.java">Display Sides of a Geometrical Structure</a>
 
-24. <a href="#">Area of A Square</a>
+24. <a href="https://github.com/joel-tm/Object-oriented-programming-using-java/blob/main/Programs/trycatch.java">Try and Catch</a>
 
-25. <a href="#">Packages</a>
 
-26. <a href="#">Try and Catch</a>
-
-27. <a href="#">Thread Synchronization</a>
-
-28. <a href="#">Calculator</a>

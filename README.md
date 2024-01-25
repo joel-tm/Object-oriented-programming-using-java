@@ -1,5 +1,5 @@
 # Object-oriented-programming-using-java-
-A collection of simple programs I did to learn Java,primarily focusing on the KTU syllabus for Java
+A collection of simple programs I did to learn Java
 
 ## PROGRAMS
 
